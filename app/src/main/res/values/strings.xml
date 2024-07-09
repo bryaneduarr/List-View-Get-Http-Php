@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">List_View_Get_Http</string>
+    <string name="nombresTextView">Nombre</string>
+    <string name="apellidosTextView">Apellido</string>
+    <string name="direccionTextView">Direccion</string>
+    <string name="telefonoTextView">Telefono</string>
+    <string name="fotoTextView">Foto</string>
+</resources>
